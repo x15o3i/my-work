@@ -1,0 +1,164 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Definition and Importance of Field Trips}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Importance for Computer Science Undergraduates}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Objectives}{2}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Mode of Study}{3}{section.1.4}%
+\contentsline {chapter}{\numberline {2}Organization}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}History}{4}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Introduction by Monu Moses}{5}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Founder: Austin Okere}{5}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}CEO: Adewale Adeyipo}{5}{subsection.2.2.2}%
+\contentsline {section}{\numberline {2.3}Company Overview}{6}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Core Values}{6}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Slogan}{6}{subsection.2.3.2}%
+\contentsline {section}{\numberline {2.4}Key Milestones}{6}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Support Partners}{7}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Fifth Lab (CWG’s Software Fintech Division)}{9}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}Establishment and Focus}{9}{subsection.2.6.1}%
+\contentsline {subsubsection}{Established}{9}{subsection.2.6.1}%
+\contentsline {subsubsection}{Focus}{9}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6.2}Product Development Lifecycle}{10}{subsection.2.6.2}%
+\contentsline {subsubsection}{Stages}{10}{subsection.2.6.2}%
+\contentsline {paragraph}{1. Ideation}{10}{subsection.2.6.2}%
+\contentsline {paragraph}{2. Product Design}{10}{subsection.2.6.2}%
+\contentsline {paragraph}{3. Product Development}{10}{subsection.2.6.2}%
+\contentsline {paragraph}{4. Testing (Alpha and Beta)}{10}{subsection.2.6.2}%
+\contentsline {paragraph}{5. Product Launch}{11}{subsection.2.6.2}%
+\contentsline {section}{\numberline {2.7}Conclusion}{11}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Products}{12}{section.2.8}%
+\contentsline {subsection}{\numberline {2.8.1}Product Catalog}{12}{subsection.2.8.1}%
+\contentsline {section}{\numberline {2.9}FinEdge: Comprehensive Banking Software Solution by CWG PLC}{12}{section.2.9}%
+\contentsline {section}{\numberline {2.10}Core Features of FinEdge}{12}{section.2.10}%
+\contentsline {subsection}{\numberline {2.10.1}Customer Relationship Management (CRM)}{12}{subsection.2.10.1}%
+\contentsline {subsection}{\numberline {2.10.2}Account Management}{13}{subsection.2.10.2}%
+\contentsline {subsection}{\numberline {2.10.3}Transaction Processing}{13}{subsection.2.10.3}%
+\contentsline {subsection}{\numberline {2.10.4}Lending and Credit Management}{13}{subsection.2.10.4}%
+\contentsline {subsection}{\numberline {2.10.5}Treasury and Investment Management}{13}{subsection.2.10.5}%
+\contentsline {subsection}{\numberline {2.10.6}Compliance and Risk Management}{13}{subsection.2.10.6}%
+\contentsline {subsection}{\numberline {2.10.7}Analytics and Reporting}{13}{subsection.2.10.7}%
+\contentsline {subsection}{\numberline {2.10.8}Security and Fraud Prevention}{14}{subsection.2.10.8}%
+\contentsline {subsection}{\numberline {2.10.9}Digital Banking Solutions}{14}{subsection.2.10.9}%
+\contentsline {section}{\numberline {2.11}Benefits of Using FinEdge}{14}{section.2.11}%
+\contentsline {section}{\numberline {2.12}KuleanPay: Advanced Fraud Prevention Solution}{15}{section.2.12}%
+\contentsline {section}{\numberline {2.13}Core Features of KuleanPay}{15}{section.2.13}%
+\contentsline {subsection}{\numberline {2.13.1}Real-Time Fraud Detection}{15}{subsection.2.13.1}%
+\contentsline {subsection}{\numberline {2.13.2}User Authentication}{15}{subsection.2.13.2}%
+\contentsline {subsection}{\numberline {2.13.3}Alert and Notification System}{15}{subsection.2.13.3}%
+\contentsline {subsection}{\numberline {2.13.4}Risk Assessment}{15}{subsection.2.13.4}%
+\contentsline {subsection}{\numberline {2.13.5}Reporting and Analytics}{16}{subsection.2.13.5}%
+\contentsline {section}{\numberline {2.14}Benefits of Using KuleanPay}{16}{section.2.14}%
+\contentsline {subsection}{\numberline {2.14.1}Enhanced Security}{16}{subsection.2.14.1}%
+\contentsline {subsection}{\numberline {2.14.2}Improved User Trust}{16}{subsection.2.14.2}%
+\contentsline {subsection}{\numberline {2.14.3}Operational Efficiency}{16}{subsection.2.14.3}%
+\contentsline {section}{\numberline {2.15}BillsnPay: Comprehensive Airtime Vending Platform}{16}{section.2.15}%
+\contentsline {section}{\numberline {2.16}Core Features of BillsnPay}{17}{section.2.16}%
+\contentsline {subsection}{\numberline {2.16.1}Mobile Top-Up Services}{17}{subsection.2.16.1}%
+\contentsline {subsection}{\numberline {2.16.2}User-Friendly Interface}{17}{subsection.2.16.2}%
+\contentsline {subsection}{\numberline {2.16.3}Payment Options}{17}{subsection.2.16.3}%
+\contentsline {subsection}{\numberline {2.16.4}Transaction History}{17}{subsection.2.16.4}%
+\contentsline {subsection}{\numberline {2.16.5}Promotions and Discounts}{17}{subsection.2.16.5}%
+\contentsline {section}{\numberline {2.17}Benefits of Using BillsnPay}{18}{section.2.17}%
+\contentsline {subsection}{\numberline {2.17.1}Convenience}{18}{subsection.2.17.1}%
+\contentsline {subsection}{\numberline {2.17.2}Wide Network Coverage}{18}{subsection.2.17.2}%
+\contentsline {subsection}{\numberline {2.17.3}Enhanced Security}{18}{subsection.2.17.3}%
+\contentsline {subsection}{\numberline {2.17.4}Customer Satisfaction}{18}{subsection.2.17.4}%
+\contentsline {section}{\numberline {2.18}SMERP \& SMERP Go: Comprehensive Enterprise Resource Planning Platforms}{18}{section.2.18}%
+\contentsline {section}{\numberline {2.19}Core Features of SMERP}{19}{section.2.19}%
+\contentsline {subsection}{\numberline {2.19.1}Inventory Management}{19}{subsection.2.19.1}%
+\contentsline {subsection}{\numberline {2.19.2}Sales Management}{19}{subsection.2.19.2}%
+\contentsline {subsection}{\numberline {2.19.3}Financial Management}{19}{subsection.2.19.3}%
+\contentsline {subsection}{\numberline {2.19.4}Human Resources Management}{19}{subsection.2.19.4}%
+\contentsline {subsection}{\numberline {2.19.5}Supply Chain Management}{19}{subsection.2.19.5}%
+\contentsline {subsection}{\numberline {2.19.6}Reporting and Analytics}{20}{subsection.2.19.6}%
+\contentsline {section}{\numberline {2.20}Core Features of SMERP Go}{20}{section.2.20}%
+\contentsline {subsection}{\numberline {2.20.1}Streamlined Business Management}{20}{subsection.2.20.1}%
+\contentsline {subsection}{\numberline {2.20.2}Scalability}{20}{subsection.2.20.2}%
+\contentsline {subsection}{\numberline {2.20.3}Cloud Integration}{20}{subsection.2.20.3}%
+\contentsline {section}{\numberline {2.21}Benefits of Using SMERP \& SMERP Go}{20}{section.2.21}%
+\contentsline {subsection}{\numberline {2.21.1}Operational Efficiency}{20}{subsection.2.21.1}%
+\contentsline {subsection}{\numberline {2.21.2}Informed Decision-Making}{21}{subsection.2.21.2}%
+\contentsline {subsection}{\numberline {2.21.3}Scalability and Flexibility}{21}{subsection.2.21.3}%
+\contentsline {subsection}{\numberline {2.21.4}Cost Savings}{21}{subsection.2.21.4}%
+\contentsline {section}{\numberline {2.22}UCP (Unified Cooperating Platform)}{21}{section.2.22}%
+\contentsline {subsection}{\numberline {2.22.1}Overview of UCP}{21}{subsection.2.22.1}%
+\contentsline {subsection}{\numberline {2.22.2}Core Features of UCP}{21}{subsection.2.22.2}%
+\contentsline {subsubsection}{Collaboration Tools}{21}{subsection.2.22.2}%
+\contentsline {subsubsection}{Communication Channels}{22}{subsection.2.22.2}%
+\contentsline {subsubsection}{Integration Capabilities}{22}{subsection.2.22.2}%
+\contentsline {subsubsection}{Project Management}{22}{subsection.2.22.2}%
+\contentsline {subsection}{\numberline {2.22.3}Benefits of Using UCP}{22}{subsection.2.22.3}%
+\contentsline {subsubsection}{Enhanced Collaboration}{22}{subsection.2.22.3}%
+\contentsline {subsubsection}{Increased Efficiency}{22}{subsection.2.22.3}%
+\contentsline {subsubsection}{Scalability}{22}{subsection.2.22.3}%
+\contentsline {section}{\numberline {2.23}Gaming}{23}{section.2.23}%
+\contentsline {subsection}{\numberline {2.23.1}Overview of Gaming}{23}{subsection.2.23.1}%
+\contentsline {subsection}{\numberline {2.23.2}Core Features of Gaming}{23}{subsection.2.23.2}%
+\contentsline {subsubsection}{Tax Calculation}{23}{subsection.2.23.2}%
+\contentsline {subsubsection}{Reporting and Documentation}{23}{subsection.2.23.2}%
+\contentsline {subsubsection}{Integration with Betting Platforms}{23}{subsection.2.23.2}%
+\contentsline {subsubsection}{Security Measures}{23}{subsection.2.23.2}%
+\contentsline {subsection}{\numberline {2.23.3}Benefits of Using Gaming}{24}{subsection.2.23.3}%
+\contentsline {subsubsection}{Regulatory Compliance}{24}{subsection.2.23.3}%
+\contentsline {subsubsection}{Efficient Tax Collection}{24}{subsection.2.23.3}%
+\contentsline {subsubsection}{Transparency and Accountability}{24}{subsection.2.23.3}%
+\contentsline {chapter}{\numberline {3}Discussion}{25}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Understanding the Structure of CWG PLC}{25}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}CWL Systems}{25}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}DCC Networks}{25}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Expert Edge Software}{26}{subsection.3.1.3}%
+\contentsline {section}{\numberline {3.2}Conclusion}{27}{section.3.2}%
+\contentsline {section}{\numberline {3.3}CWG Academy}{27}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Topics Covered}{27}{subsection.3.3.1}%
+\contentsline {subsubsection}{What is IT?}{27}{subsection.3.3.1}%
+\contentsline {subsubsection}{Why Study IT?}{27}{subsection.3.3.1}%
+\contentsline {subsubsection}{Careers in IT}{27}{subsection.3.3.1}%
+\contentsline {subsubsection}{How to Build a Career in IT}{27}{subsection.3.3.1}%
+\contentsline {section}{\numberline {3.4}Key Insights from Mr. Daniel Odigbo, Senior Software Developer}{28}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Database Languages}{28}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Languages}{28}{subsection.3.5.1}%
+\contentsline {section}{\numberline {3.6}SQL Usage}{28}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Fetching Records}{28}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}Writing Insert Queries}{28}{subsection.3.6.2}%
+\contentsline {section}{\numberline {3.7}PLSQL Usage}{29}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}Complex Transactions}{29}{subsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.7.2}Advanced Data Manipulation}{29}{subsection.3.7.2}%
+\contentsline {section}{\numberline {3.8}Cloud Computing}{30}{section.3.8}%
+\contentsline {subsection}{\numberline {3.8.1}Differences}{30}{subsection.3.8.1}%
+\contentsline {subsubsection}{Public vs. Private Cloud}{30}{subsection.3.8.1}%
+\contentsline {paragraph}{Public Cloud}{30}{subsection.3.8.1}%
+\contentsline {paragraph}{Private Cloud}{30}{subsection.3.8.1}%
+\contentsline {subsubsection}{Converged vs. Hyper-Converged Infrastructure}{31}{subsection.3.8.1}%
+\contentsline {paragraph}{Converged Infrastructure}{31}{subsection.3.8.1}%
+\contentsline {paragraph}{Hyper-Converged Infrastructure (HCI)}{31}{subsection.3.8.1}%
+\contentsline {section}{\numberline {3.9}Data Center}{32}{section.3.9}%
+\contentsline {subsection}{\numberline {3.9.1}Components}{32}{subsection.3.9.1}%
+\contentsline {subsubsection}{Cooling Systems}{32}{subsection.3.9.1}%
+\contentsline {subsubsection}{Humidifiers}{32}{subsection.3.9.1}%
+\contentsline {subsubsection}{Signal and Power Cables}{33}{subsection.3.9.1}%
+\contentsline {subsubsection}{Access Control}{33}{subsection.3.9.1}%
+\contentsline {subsubsection}{Security Measures}{33}{subsection.3.9.1}%
+\contentsline {subsection}{\numberline {3.9.2}Operations}{33}{subsection.3.9.2}%
+\contentsline {subsubsection}{Reliability}{33}{subsection.3.9.2}%
+\contentsline {subsubsection}{Fire Suppression (FM200)}{33}{subsection.3.9.2}%
+\contentsline {section}{\numberline {3.10}Network Operation Center (NOC)}{34}{section.3.10}%
+\contentsline {subsection}{\numberline {3.10.1}Roles}{34}{subsection.3.10.1}%
+\contentsline {subsubsection}{Internet Services}{34}{subsection.3.10.1}%
+\contentsline {subsubsection}{Traffic Monitoring}{34}{subsection.3.10.1}%
+\contentsline {subsubsection}{Hosted Applications}{34}{subsection.3.10.1}%
+\contentsline {subsubsection}{Storage Management}{34}{subsection.3.10.1}%
+\contentsline {section}{\numberline {3.11}Careers}{35}{section.3.11}%
+\contentsline {subsection}{\numberline {3.11.1}Network Engineers}{35}{subsection.3.11.1}%
+\contentsline {subsection}{\numberline {3.11.2}Data Center Roles}{35}{subsection.3.11.2}%
+\contentsline {section}{\numberline {3.12}Test Bench}{36}{section.3.12}%
+\contentsline {subsection}{\numberline {3.12.1}Prepaid Energy Meters}{36}{subsection.3.12.1}%
+\contentsline {subsubsection}{Assembly}{36}{subsection.3.12.1}%
+\contentsline {section}{\numberline {3.13}Technology}{37}{section.3.13}%
+\contentsline {subsection}{\numberline {3.13.1}Microwave, VSAT, and Fiber Technologies}{37}{subsection.3.13.1}%
+\contentsline {subsubsection}{Microwave Technology}{37}{subsection.3.13.1}%
+\contentsline {subsubsection}{VSAT (Very Small Aperture Terminal) Technology}{37}{subsection.3.13.1}%
+\contentsline {subsubsection}{Fiber Optic Technology}{38}{subsection.3.13.1}%
+\contentsline {subsection}{\numberline {3.13.2}Dish Farm}{38}{subsection.3.13.2}%
+\contentsline {chapter}{\numberline {4}Summary, Conclusion, and Recommendation}{39}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Summary}{39}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Conclusion}{39}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Recommendation}{39}{section.4.3}%
